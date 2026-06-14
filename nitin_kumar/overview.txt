@@ -1,0 +1,7 @@
+Overview
+
+This project involves creating a full-stack web development task for ArcadeHub Nexus, a fictional online gaming website where users can sign up, log in, browse casual browser games, save favorite games, submit demo scores, and view leaderboard rankings. The final website described in the task must include a working frontend, backend API, local database, authentication flow, seeded game data, favorites, scores, and leaderboard features.
+
+The website concept is focused on free casual games only, such as arcade, puzzle, racing, reflex, trivia, and strategy games. It must not include betting, gambling, casino mechanics, payment gateways, crypto wallets, real-money rewards, copyrighted game art, or real gaming company logos. The goal is to define a realistic full-stack prototype that can be built and tested locally by a freelancer or AI agent using the instructions file.
+
+The final task package should help a seller understand the product direction, technical expectations, visual style, backend requirements, database structure, API routes, and acceptance rules. The work should communicate a strong dark arcade-style product experience while also requiring real full-stack behavior through React frontend screens, Express API routes, SQLite database tables, JWT authentication, seeded games, saved favorites, submitted scores, and leaderboard records. All planning files must remain consistent with instructions.md, assets.pdf, reference_image.png, and rubrics.txt.

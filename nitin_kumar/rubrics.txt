@@ -1,0 +1,42 @@
+ArcadeHub Nexus - Full-Stack Online Gaming Website Rubrics
+
+1. Frontend folder exists.
+2. Backend folder exists.
+3. Screenshots folder exists.
+4. Desktop screenshot exists.
+5. Mobile screenshot exists.
+6. Root README.md exists.
+7. README names tech stack.
+8. README lists folder structure.
+9. README lists setup commands.
+10. README lists run commands.
+11. README lists seed command.
+12. README lists demo credentials.
+13. README lists API routes.
+14. README states excluded features.
+15. Frontend server starts locally.
+16. Backend server starts locally.
+17. Frontend build succeeds.
+18. Database initializes locally.
+19. Seed creates 12 games.
+20. Seed creates 10 scores.
+21. Seed creates demo user.
+22. Users table exists.
+23. Games table exists.
+24. Favorites table exists.
+25. Scores table exists.
+26. Signup form fields exist.
+27. Login form fields exist.
+28. Password hashing is implemented.
+29. Plaintext passwords are absent.
+30. Login endpoint returns JWT.
+31. Profile endpoint rejects missing token.
+32. Health endpoint returns success.
+33. Catalog loads backend games.
+34. Catalog search filters titles.
+35. Category filter changes results.
+36. Rating sort changes order.
+37. Game detail shows required fields.
+38. Favorite action persists.
+39. Score submission persists.
+40. Prohibited content is absent.
